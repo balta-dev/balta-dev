@@ -23,9 +23,10 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjEzZHhkcHcza2YwNjZocWRxYmdpcnFmdTl1bW82b29rNW5jd20zaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="480" height="307"/>
+  <img src="https://github.com/user-attachments/assets/4066e8fd-1dbd-4a79-91c4-8ba40f637462"/>
 </div>
 
+---
 
 
 # 💫 Acerca de mí:
