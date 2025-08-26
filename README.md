@@ -4,7 +4,7 @@
       <a href="https://www.instagram.com/baltafranz/">
         <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
-      <a href="https://www.linkedin.com/in/baltazar-franz-485869236/">
+      <a href="https://www.linkedin.com/in/baltafranz/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="mailto:baltafranz@gmail.com">
